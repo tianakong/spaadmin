@@ -1,0 +1,75 @@
+[
+  {
+    "name": "layui",
+    "url" : "",
+    "child": [
+      {
+        "name" : "基本元素",
+        "url" : "",
+        "child": [
+          {"name" : "按钮", "url" : "/buttons"},
+          {"name" : "表单", "url" : "/forms"},
+          {"name" : "导航/面包屑", "url" : "/navs"},
+          {"name" : "选项卡", "url" : "/tabs"},
+          {"name" : "进度条", "url" : "/progresss"},
+          {"name" : "面板", "url" : "/panel"},
+          {"name" : "徽章", "url" : "/badge"},
+          {"name" : "时间线", "url" : "/timeline"},
+          {"name" : "静态表格", "url" : "/tableElement"},
+          {"name" : "动画", "url" : "/anim"},
+          {"name" : "辅助元素", "url" : "/auxiliar"}
+        ]
+      },
+      {
+        "name" : "组件示例",
+        "url" : "",
+        "child": [
+          {"name" : "弹出层", "url" : "/layer"},
+          {"name" : "即时通讯", "url" : "/layim"},
+          {"name" : "日期与时间选择", "url" : "/laydate"},
+          {"name" : "数据表格", "url" : "/tables"}
+        ]
+      }
+    ]
+
+  },
+  {
+    "name": "常用组件",
+    "url" : "",
+    "child": [
+      {
+        "name" : "Form表单",
+        "url" : "",
+        "child": [
+          {"name" : "select选择器", "url" : "/selects"},
+          {"name" : "级联选择器", "url" : "/cascader"},
+          {"name" : "穿梭框", "url" : "/transfer"}
+        ]
+      },
+      {
+        "name" : "常用树",
+        "url" : "",
+        "child": [
+          {"name" : "树表格", "url" : "/treetables"},
+          {"name" : "树形控件", "url" : "/trees"},
+          {"name" : "树选择", "url" : "/treeselects"}
+        ]
+      }
+    ]
+
+  },
+  {
+    "name": "页面示例",
+    "url" : "",
+    "child": [
+      {
+        "name" : "内容管理",
+        "url" : "",
+        "child": [
+          {"name" : "文章列表", "url" : "/newslist"}
+        ]
+      }
+    ]
+
+  }
+]
